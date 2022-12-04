@@ -68,10 +68,11 @@ I have been using Machine Learning, Deep Learning, and Natural Language Processi
 <details><summary>Patents & Publications</summary>
   
 + Text Classifiers for Small Scale Relevance
-+ Digital Content excerpt Identification
-+ Identifying entities in a digital work
-+ Identifying topics in a digital work
-+ Visual representation of supplemental information for a digital work • Providing supplemental information for a digital work
++ [Digital Content excerpt Identification](https://patents.google.com/patent/US9910916B1/en)
++ [Identifying entities in a digital work](https://patents.google.com/patent/US9639518B1/en)
++ [Identifying topics in a digital work](https://patents.google.com/patent/US9613003B1/en)
++ [Visual representation of supplemental information for a digital work • Providing supplemental information for a digital work](https://patents.google.com/patent/US20130080881A1/en)
++ [Providing supplemental information for a digital work](https://patents.google.com/patent/US8842085B1/en)
 + [Presenting content in multiple languages](https://patents.google.com/patent/US9684641B1/en)
 + [Providing supplemental information for a digital work in a user interface](https://patents.google.com/patent/US9128581B1/en)
 + [Navigating supplemental information for a digital work](https://patents.google.com/patent/US9471547B1/en)
