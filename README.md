@@ -19,7 +19,7 @@ I have been using Machine Learning to bring value to organizations like Amazon a
 
 ## Fresh 🔥
 <!--START_SECTION:feed-->
-
+...
 <!--END_SECTION:feed-->
 
 ## Learning this year 📚
