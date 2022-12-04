@@ -17,7 +17,7 @@ I have been using Machine Learning to bring value to organizations like Amazon a
   </a>
 </p>
 
-## Latest Tweets
+## Fresh 🔥
 <!-- TWITTER:START -->
 - [@_akhaliq: .@diffuserslib now supports Stable Diffusion 2try is out in a few lines of codepip install diffusers](https://twitter.com/_akhaliq/status/1596198926268485634)
 - [@appliedml42: Just implemented vector search using @Spotify Annoy library and @ThePSF multiprocessing. It&#39;s amazing that using multiprocessing you can implement a very usable data explorer. Usable: 4M vectors, 1280 dimensions, on 64 cores returns results in under 3 seconds.](https://twitter.com/appliedml42/status/1594018538926186497)
@@ -26,7 +26,7 @@ I have been using Machine Learning to bring value to organizations like Amazon a
 - [@ericjang11: Great overview blog post on why transformers need certain optimization tricks that aren&#39;t needed by other architectures](https://twitter.com/ericjang11/status/1589542707449704448)
 <!-- TWITTER:END -->
 
-## Learning this year!
+## Learning this year 📚
 <details>
   <summary>Billion Scale Language Models</summary>
 </details>
@@ -34,7 +34,7 @@ I have been using Machine Learning to bring value to organizations like Amazon a
   <summary>Stable Diffusion</summary>
 </details>
 
-## Resume
+## Resume 💼
 <details>
   <summary>2019 - </summary>
 </details>
