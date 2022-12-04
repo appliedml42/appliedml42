@@ -25,7 +25,8 @@ I have been using Machine Learning, Deep Learning, and Natural Language Processi
 
 # Learning this year 📚
 <details><summary>Billion Scale Language Models</summary>
-<p align="center"><a href="https://github.com/appliedml42/language-modeling">Code Repository</a></p>
+  
+Billion-scale language models like GPT-2 and GPT-3 and their derivatives have become essential models for accomplishing traditional NLP tasks like classifications. At the same time, they have opened the door to possibilities like code generation. Understanding and training these models require a deep understanding of Transformers and how to train them across multiple GPUs on billions of tokens. In these experiments, I am learning how to train billion parameter models on multiple GPUs on billions of tokens. For more details, go to this [repository](https://github.com/appliedml42/language-modeling). 
 </details>
 
 <details><summary>Stable Diffusion</summary>
