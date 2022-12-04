@@ -18,8 +18,9 @@ I have been using Machine Learning to bring value to organizations like Amazon a
 </p>
 
 ## Fresh 🔥
-<!-- TWITTER:START -->
-<!-- TWITTER:END -->
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
 
 ## Learning this year 📚
 <details>
