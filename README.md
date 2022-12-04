@@ -17,12 +17,12 @@ I have been using Machine Learning to bring value to organizations like Amazon a
   </a>
 </p>
 
-## Fresh 🔥
+# Fresh 🔥
 <!--START_SECTION:feed-->
 * [@appliedml42: Just implemented vector search using @Spotify Annoy library and @ThePSF multiprocessing. It&#39;s amazing that using multiprocessing you can implement a very usable data explorer. Usable: 4M vectors, 1280 dimensions, on 64 cores returns results in under](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1594018538926186497)
 <!--END_SECTION:feed-->
 
-## Learning this year 📚
+# Learning this year 📚
 <details>
   <summary>Billion Scale Language Models</summary>
 </details>
@@ -30,14 +30,23 @@ I have been using Machine Learning to bring value to organizations like Amazon a
   <summary>Stable Diffusion</summary>
 </details>
 
-## Resume 💼
-<details>
-  <summary>2019 - </summary>
+# Resume 💼
+<details><summary>2019 - </summary>
+
+## Machine Learning Engineer@Tinder
+
++ Lead a team of Machine Learning Engineers(dotted line reporting) that is responsible for significant Trust and Safety KPIs. Responsible for hiring, mentoring, and team charter.
++ Pioneered the idea of using human moderation logs to generate weakly labeled training data at Tinder.
++ Led the team’s adoption of CNNs and Transformers for all text classification projects. Significant contributions include setting up from-scratch pre-training patterns for Transformers, Domain-specific tokenization, and text pre-processing algorithms to handle adversarial behavior.
++ Created and led (dotted line) the Escalation and Early Warning team. This team of analysts is responsible for tracking global Trust and Safety KPIs and continuously optimizing detection strategies. Invented KPIs that Trust and Safety org adopted to measure OKRs. This team also provides continuous       feedback to MLEs on new trends and keeps them updated on where to focus while improving their models.
++ Invented many high ROI and robust non-ML detection algorithms. Significantly ones include combining user reporting with early-in-the-funnel signals to catch bad actors robustly and anomaly detection in user-generated text content.
 </details>
-<details>
-  <summary>2015 - 2019</summary>
+<details><summary>2015 - 2019</summary>
+
+## Applied Scientist@Amazon
 </details>
-<details>
-  <summary>2011 - 2015</summary>
+<details><summary>2011 - 2015</summary>
+
+## Software Engineer@Amazon
 </details>
 
