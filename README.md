@@ -23,11 +23,14 @@ I have been using Machine Learning, Deep Learning, and Natural Language Processi
 <!--END_SECTION:feed-->
 
 # Learning this year 📚
-<details>
-  <summary>Billion Scale Language Models</summary>
+<details><summary>Billion Scale Language Models</summary>
+  
++ [Code Repository](https://github.com/appliedml42/language-modeling)
 </details>
-<details>
-  <summary>Stable Diffusion</summary>
+
+<details><summary>Stable Diffusion</summary>
+  
++ [Code Repository](https://github.com/appliedml42/fastai-stable-diffusion)  
 </details>
 
 # Resume 💼
