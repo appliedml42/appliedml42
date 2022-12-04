@@ -1,5 +1,6 @@
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/88844341/205467453-34cb19b2-47ad-4d44-a3d7-80a67d073ea4.jpg">
+<img width="454" alt="Screenshot 2022-12-03 at 8 10 52 PM" src="https://user-images.githubusercontent.com/88844341/205474021-a1bae1a2-5570-4d31-a996-867945f692f4.png">
 </p>
 
 I have been using Machine Learning, Deep Learning, and Natural Language Processing to bring value to organizations like Amazon and Tinder since 2011. Andrew Ng's lecture at Amazon introduced me to Deep Learning in the early 2010s. I have been hooked ever since. 
