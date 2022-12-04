@@ -62,7 +62,12 @@ I have been using Machine Learning, Deep Learning, and Natural Language Processi
 </details>
 <details><summary>2011 - 2015</summary>
 
-## Software Engineer@Amazon
+## Software Engineer, Kindle@Amazon
+  
++ Founding engineer on the X-Ray team. This feature identifies topics, characters, images, and important sections of a book. This information is presented to the user in a intuitive user interface. This feature is part of the Amazon Kindle reading experience.
++ Developed algorithms to associate the different aliases used for a character to a single entity. For example, the algorithm will ensure that Mr. Potter and Harry Potter are associated with the same character.
++ Generated n-gram count statistics across the whole Kindle catalog using Map-Reduce and Dynamo DB. This data is used for topic modeling. 
++ Developed the algorithms for identifying critical passages in a book by crowd-sourcing highlight behavior across all Kindle users.
 </details>
 
 <details><summary>Patents & Publications</summary>
