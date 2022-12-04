@@ -79,8 +79,11 @@ I have been using Machine Learning, Deep Learning, and Natural Language Processi
 
 # Fresh 🔥
 <!--START_SECTION:feed-->
-* [@appliedml42: Excited to try  and  code with promise of up to 2x speed up is exciting!](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599271246596050945)
-* [@appliedml42: Just implemented vector search using @Spotify Annoy library and @ThePSF multiprocessing. It&#39;s amazing that using multiprocessing you can implement a very usable data explorer. Usable: 4M vectors, 1280 dimensions, on 64 cores returns results in under](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1594018538926186497)
+* [@appliedml42: Thanks! I share my learnings on twitter periodically.](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487878916366337)
+* [@appliedml42: This idea can be extended to other datasets too large to fit in memory. For example, I have created a similar Dataset for for my LLM experiments using #sqlite. @weights_biases report here](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487877423206400)
+* [@appliedml42: This works great with Multi-processed Dataloaders.](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487875246014466)
+* [@appliedml42: Concept 2: Now we have the npy file and the image index in the file li. We can use memmap to load the file and get the data. That&#39;s it!](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487862139162624)
+* [@appliedml42: Concept 1 contd: We will use the first DataFrame to find the file and the offset within the file for a given index. searchsorted will do this for us. We will use the second DataFrame to find the category for a given file path.](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487858808860672)
 <!--END_SECTION:feed-->
 
 # Learning this year 📚
