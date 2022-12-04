@@ -19,7 +19,7 @@
 
 I have been using Machine Learning, Deep Learning, and Natural Language Processing to bring value to organizations like Amazon and Tinder since 2011. Andrew Ng's lecture at Amazon introduced me to Deep Learning in the early 2010s. I have been hooked ever since. 
 
-<details><summary>2019 - </summary>
+<details><summary>2019 - Present</summary>
 
 ## Staff Machine Learning Engineer & Technical Lead, Trust&Safety@Tinder
 
