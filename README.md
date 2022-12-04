@@ -19,11 +19,6 @@ I have been using Machine Learning to bring value to organizations like Amazon a
 
 ## Fresh 🔥
 <!-- TWITTER:START -->
-- [@_akhaliq: .@diffuserslib now supports Stable Diffusion 2try is out in a few lines of codepip install diffusers](https://twitter.com/_akhaliq/status/1596198926268485634)
-- [@appliedml42: Just implemented vector search using @Spotify Annoy library and @ThePSF multiprocessing. It&#39;s amazing that using multiprocessing you can implement a very usable data explorer. Usable: 4M vectors, 1280 dimensions, on 64 cores returns results in under 3 seconds.](https://twitter.com/appliedml42/status/1594018538926186497)
-- [@jaschasd: If there is one thing the deep learning revolution has taught us, it&#39;s that neural nets will outperform hand-designed heuristics, given enough compute and data. But we still use hand-designed heuristics to train our models. Let&#39;s replace our optimizers with trained neural nets!](https://twitter.com/jaschasd/status/1593466553642627079)
-- [@cwolferesearch: What&#39;s the best learning rate schedule to use for training a neural net? This is a simple question that pretty much any deep learning practitioner will ask. I argue that cyclical LR schedules are most practical. Here&#39;s why... 🧵 [1/6]](https://twitter.com/cwolferesearch/status/1590466829625225217)
-- [@ericjang11: Great overview blog post on why transformers need certain optimization tricks that aren&#39;t needed by other architectures](https://twitter.com/ericjang11/status/1589542707449704448)
 <!-- TWITTER:END -->
 
 ## Learning this year 📚
