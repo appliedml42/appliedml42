@@ -31,11 +31,12 @@ I have been using Machine Learning to bring value to organizations like Amazon a
 </details>
 
 # Resume 💼
-<p align="center"><b>Skills & Technologies</b></p>
+<p align="center"><b>Technologies</b></p>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 <details><summary>2019 - </summary>
 
 ## Machine Learning Engineer@Tinder
