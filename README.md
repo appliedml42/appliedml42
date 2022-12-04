@@ -17,6 +17,10 @@ I have been using Machine Learning to bring value to organizations like Amazon a
   </a>
 </p>
 
+## Latest Tweets
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
+
 ## Learning this year!
 <details>
   <summary>Billion Scale Language Models</summary>
