@@ -3,8 +3,19 @@
 </p>
 
 I have been using Machine Learning to bring value to organizations like Amazon and Tinder since 2011. Andrew Ng's lecture at Amazon introduced me to Deep Learning in the early 2010s. I have been hooked ever since. 
-
-**Please reach out if you would like to consult on your AI/ML project.** 
+<p align="center">
+  <b>Please reach out if you would like to consult on your AI/ML project.</b>
+  <br><br>
+  <a href="https://www.linkedin.com/in/abhishekpatnia/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/appliedml42">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:appliedml42@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## Learning this year!
 <details>
@@ -14,7 +25,7 @@ I have been using Machine Learning to bring value to organizations like Amazon a
   <summary>Stable Diffusion</summary>
 </details>
 
-## Industry Experience
+## Resume
 <details>
   <summary>2019 - </summary>
 </details>
@@ -24,3 +35,4 @@ I have been using Machine Learning to bring value to organizations like Amazon a
 <details>
   <summary>2011 - 2015</summary>
 </details>
+
