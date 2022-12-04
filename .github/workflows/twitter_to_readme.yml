@@ -1,4 +1,4 @@
-name: Update this repo's README
+name: Update this repo's README with twitter feed
 
 on:
   schedule:
