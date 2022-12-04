@@ -1,12 +1,11 @@
 
+<p align="center"><b>Please reach out if you would like to consult on your AI/ML project.</b></p>
+
 <p align="center">
 <img width="454" alt="Screenshot 2022-12-03 at 8 10 52 PM" src="https://user-images.githubusercontent.com/88844341/205474021-a1bae1a2-5570-4d31-a996-867945f692f4.png">
 </p>
 
-I have been using Machine Learning, Deep Learning, and Natural Language Processing to bring value to organizations like Amazon and Tinder since 2011. Andrew Ng's lecture at Amazon introduced me to Deep Learning in the early 2010s. I have been hooked ever since. 
 <p align="center">
-  <b>Please reach out if you would like to consult on your AI/ML project.</b>
-  <br><br>
   <a href="https://www.linkedin.com/in/abhishekpatnia/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -18,40 +17,11 @@ I have been using Machine Learning, Deep Learning, and Natural Language Processi
   </a>
 </p>
 
-# Fresh 🔥
-<!--START_SECTION:feed-->
-* [@appliedml42: Excited to try  and  code with promise of up to 2x speed up is exciting!](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599271246596050945)
-* [@appliedml42: Just implemented vector search using @Spotify Annoy library and @ThePSF multiprocessing. It&#39;s amazing that using multiprocessing you can implement a very usable data explorer. Usable: 4M vectors, 1280 dimensions, on 64 cores returns results in under](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1594018538926186497)
-<!--END_SECTION:feed-->
-
-# Learning this year 📚
-<details><summary>Billion Scale Language Models</summary>
-  
-Billion-scale language models like GPT-2 and GPT-3 and their derivatives have become essential models for accomplishing traditional NLP tasks like classifications. At the same time, they have opened the door to possibilities like code generation. Understanding and training these models require a deep understanding of Transformers and how to train them across multiple GPUs on billions of tokens. In these experiments, I am learning how to train billion parameter models on multiple GPUs on billions of tokens. For more details, go to this [repository](https://github.com/appliedml42/language-modeling). 
-</details>
-
-<details><summary>Stable Diffusion</summary>
-
-Stable Diffusion is revolutionizing the Generative AI field. New text-to-image models like DreamBooth are making art accessible to many more people. My personal experience is in Natural Language Processing; however, lucky for me, FastAI just released a new course on Stable Diffusion. I am excited to learn and follow along—more details in this [repository](https://github.com/appliedml42/fastai-stable-diffusion). 
-</details>
-
-# Resume 💼
-<p align="center"><b>Technologies & Tools</b></p>
-
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](https://www.databricks.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org)
+I have been using Machine Learning, Deep Learning, and Natural Language Processing to bring value to organizations like Amazon and Tinder since 2011. Andrew Ng's lecture at Amazon introduced me to Deep Learning in the early 2010s. I have been hooked ever since. 
 
 <details><summary>2019 - </summary>
 
-## Machine Learning Engineer, Trust&Safety@Tinder
+## Staff Machine Learning Engineer & Technical Lead, Trust&Safety@Tinder
 
 + Lead a team of Machine Learning Engineers(dotted line reporting) that is responsible for significant Trust and Safety KPIs. Responsible for hiring, mentoring, and team charter.
 + Pioneered the idea of using human moderation logs to generate weakly labeled training data at Tinder.
@@ -62,12 +32,13 @@ Stable Diffusion is revolutionizing the Generative AI field. New text-to-image m
 
 <details><summary>2015 - 2019</summary>
 
-## Applied Scientist, Search Experience@Amazon
+## Senior Applied Scientist & Technical Lead, Search Experience@Amazon
 
 + Technical Lead for a team of 6 Applied Scientists working on query understanding.
 + Led the R&D and deployment of Search Experience's first query -> category Deep Learning model. This was a Recurrent Neural Network text classification model trained on months of search logs. This model became the foundation for many other products in the team that needed an understanding of query categories.
 + Pioneered GPU-enabled development, training, inference practices, and infrastructure for Deep Learning in the team. This infrastructure is based on AWS Batch and Docker.
 </details>
+
 <details><summary>2011 - 2015</summary>
 
 ## Software Engineer, Kindle@Amazon
@@ -91,4 +62,34 @@ Stable Diffusion is revolutionizing the Generative AI field. New text-to-image m
 + [Navigating supplemental information for a digital work](https://patents.google.com/patent/US9471547B1/en)
 + [Display screen having a graphical user interface for providing supplemental information of a digital work](https://patents.google.com/patent/USD674810S1/en)
 + [Layout-aware text extraction from full-text PDF of scientific articles](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-7-7)
+</details>
+
+<p align="center"><b>Technologies & Tools</b></p>
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](https://www.databricks.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org)
+
+# Fresh 🔥
+<!--START_SECTION:feed-->
+* [@appliedml42: Excited to try  and  code with promise of up to 2x speed up is exciting!](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599271246596050945)
+* [@appliedml42: Just implemented vector search using @Spotify Annoy library and @ThePSF multiprocessing. It&#39;s amazing that using multiprocessing you can implement a very usable data explorer. Usable: 4M vectors, 1280 dimensions, on 64 cores returns results in under](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1594018538926186497)
+<!--END_SECTION:feed-->
+
+# Learning this year 📚
+<details><summary>Billion Scale Language Models</summary>
+  
+Billion-scale language models like GPT-2 and GPT-3 and their derivatives have become essential models for accomplishing traditional NLP tasks like classifications. At the same time, they have opened the door to possibilities like code generation. Understanding and training these models require a deep understanding of Transformers and how to train them across multiple GPUs on billions of tokens. In these experiments, I am learning how to train billion parameter models on multiple GPUs on billions of tokens. For more details, go to this [repository](https://github.com/appliedml42/language-modeling). 
+</details>
+
+<details><summary>Stable Diffusion</summary>
+
+Stable Diffusion is revolutionizing the Generative AI field. New text-to-image models like DreamBooth are making art accessible to many more people. My personal experience is in Natural Language Processing; however, lucky for me, FastAI just released a new course on Stable Diffusion. I am excited to learn and follow along—more details in this [repository](https://github.com/appliedml42/fastai-stable-diffusion). 
 </details>
