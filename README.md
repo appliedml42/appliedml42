@@ -25,7 +25,7 @@ I have been using Machine Learning, Deep Learning, and Natural Language Processi
 
 # Learning this year 📚
 <details><summary>Billion Scale Language Models</summary>
-<p align="center"><a href=https://github.com/appliedml42/language-modeling">Code Repository</a></p>
+<p align="center"><a href="https://github.com/appliedml42/language-modeling">Code Repository</a></p>
 </details>
 
 <details><summary>Stable Diffusion</summary>
