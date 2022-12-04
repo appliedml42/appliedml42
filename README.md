@@ -20,6 +20,7 @@ I have been using Machine Learning, Deep Learning, and Natural Language Processi
 
 # Fresh 🔥
 <!--START_SECTION:feed-->
+* [@appliedml42: Excited to try  and  code with promise of up to 2x speed up is exciting!](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599271246596050945)
 * [@appliedml42: Just implemented vector search using @Spotify Annoy library and @ThePSF multiprocessing. It&#39;s amazing that using multiprocessing you can implement a very usable data explorer. Usable: 4M vectors, 1280 dimensions, on 64 cores returns results in under](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1594018538926186497)
 <!--END_SECTION:feed-->
 
