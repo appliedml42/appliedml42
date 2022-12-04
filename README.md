@@ -33,7 +33,7 @@ I have been using Machine Learning, Deep Learning, and Natural Language Processi
 </details>
 
 # Resume 💼
-<p align="center"><b>Technologies</b></p>
+<p align="center"><b>Technologies & Tools</b></p>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
