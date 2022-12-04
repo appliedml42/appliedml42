@@ -31,6 +31,11 @@ I have been using Machine Learning to bring value to organizations like Amazon a
 </details>
 
 # Resume 💼
+<p align="center"><b>Skills & Technologies</b></p>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 <details><summary>2019 - </summary>
 
 ## Machine Learning Engineer@Tinder
