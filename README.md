@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/88844341/205467453-34cb19b2-47ad-4d44-a3d7-80a67d073ea4.jpg">
 </p>
 
-I have been using Machine Learning to bring value to organizations like Amazon and Tinder since 2011. Andrew Ng's lecture at Amazon introduced me to Deep Learning in the early 2010s. I have been hooked ever since. 
+I have been using Machine Learning, Deep Learning, and Natural Language Processing to bring value to organizations like Amazon and Tinder since 2011. Andrew Ng's lecture at Amazon introduced me to Deep Learning in the early 2010s. I have been hooked ever since. 
 <p align="center">
   <b>Please reach out if you would like to consult on your AI/ML project.</b>
   <br><br>
@@ -33,13 +33,17 @@ I have been using Machine Learning to bring value to organizations like Amazon a
 # Resume 💼
 <p align="center"><b>Technologies</b></p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+
 <details><summary>2019 - </summary>
 
-## Machine Learning Engineer@Tinder
+## Machine Learning Engineer, Trust&Safety@Tinder
 
 + Lead a team of Machine Learning Engineers(dotted line reporting) that is responsible for significant Trust and Safety KPIs. Responsible for hiring, mentoring, and team charter.
 + Pioneered the idea of using human moderation logs to generate weakly labeled training data at Tinder.
@@ -47,12 +51,30 @@ I have been using Machine Learning to bring value to organizations like Amazon a
 + Created and led (dotted line) the Escalation and Early Warning team. This team of analysts is responsible for tracking global Trust and Safety KPIs and continuously optimizing detection strategies. Invented KPIs that Trust and Safety org adopted to measure OKRs. This team also provides continuous       feedback to MLEs on new trends and keeps them updated on where to focus while improving their models.
 + Invented many high ROI and robust non-ML detection algorithms. Significantly ones include combining user reporting with early-in-the-funnel signals to catch bad actors robustly and anomaly detection in user-generated text content.
 </details>
+
 <details><summary>2015 - 2019</summary>
 
-## Applied Scientist@Amazon
+## Applied Scientist, Search Experience@Amazon
+
++ Technical Lead for a team of 6 Applied Scientists working on query understanding.
++ Led the R&D and deployment of Search Experience's first query -> category Deep Learning model. This was a Recurrent Neural Network text classification model trained on months of search logs. This model became the foundation for many other products in the team that needed an understanding of query categories.
++ Pioneered GPU-enabled development, training, inference practices, and infrastructure for Deep Learning in the team. This infrastructure is based on AWS Batch and Docker.
 </details>
 <details><summary>2011 - 2015</summary>
 
 ## Software Engineer@Amazon
 </details>
 
+<details><summary>Patents & Publications</summary>
+  
++ Text Classifiers for Small Scale Relevance
++ Digital Content excerpt Identification
++ Identifying entities in a digital work
++ Identifying topics in a digital work
++ Visual representation of supplemental information for a digital work • Providing supplemental information for a digital work
++ [Presenting content in multiple languages](https://patents.google.com/patent/US9684641B1/en)
++ [Providing supplemental information for a digital work in a user interface](https://patents.google.com/patent/US9128581B1/en)
++ [Navigating supplemental information for a digital work](https://patents.google.com/patent/US9471547B1/en)
++ [Display screen having a graphical user interface for providing supplemental information of a digital work](https://patents.google.com/patent/USD674810S1/en)
++ [Layout-aware text extraction from full-text PDF of scientific articles](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-7-7)
+</details>
