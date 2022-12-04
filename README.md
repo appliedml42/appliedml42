@@ -19,7 +19,7 @@ I have been using Machine Learning to bring value to organizations like Amazon a
 
 ## Fresh 🔥
 <!--START_SECTION:feed-->
-...
+* [@appliedml42: Just implemented vector search using @Spotify Annoy library and @ThePSF multiprocessing. It&#39;s amazing that using multiprocessing you can implement a very usable data explorer. Usable: 4M vectors, 1280 dimensions, on 64 cores returns results in under](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1594018538926186497)
 <!--END_SECTION:feed-->
 
 ## Learning this year 📚
