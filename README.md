@@ -77,15 +77,6 @@ I have been using Machine Learning, Deep Learning, and Natural Language Processi
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org)
 
-# Fresh 🔥
-<!--START_SECTION:feed-->
-* [@appliedml42: Thanks! I share my learnings on twitter periodically.](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487878916366337)
-* [@appliedml42: This idea can be extended to other datasets too large to fit in memory. For example, I have created a similar Dataset for for my LLM experiments using #sqlite. @weights_biases report here](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487877423206400)
-* [@appliedml42: This works great with Multi-processed Dataloaders.](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487875246014466)
-* [@appliedml42: Concept 2: Now we have the npy file and the image index in the file li. We can use memmap to load the file and get the data. That&#39;s it!](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487862139162624)
-* [@appliedml42: Concept 1 contd: We will use the first DataFrame to find the file and the offset within the file for a given index. searchsorted will do this for us. We will use the second DataFrame to find the category for a given file path.](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487858808860672)
-<!--END_SECTION:feed-->
-
 # Learning this year 📚
 <details><summary>Billion Scale Language Models</summary>
   
@@ -96,3 +87,12 @@ Billion-scale language models like GPT-2 and GPT-3 and their derivatives have be
 
 Stable Diffusion is revolutionizing the Generative AI field. New text-to-image models like DreamBooth are making art accessible to many more people. My personal experience is in Natural Language Processing; however, lucky for me, FastAI just released a new course on Stable Diffusion. I am excited to learn and follow along—more details in this [repository](https://github.com/appliedml42/fastai-stable-diffusion). 
 </details>
+
+# Latest Chirps 🔥🐥
+<!--START_SECTION:feed-->
+* [@appliedml42: Thanks! I share my learnings on twitter periodically.](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487878916366337)
+* [@appliedml42: This idea can be extended to other datasets too large to fit in memory. For example, I have created a similar Dataset for for my LLM experiments using #sqlite. @weights_biases report here](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487877423206400)
+* [@appliedml42: This works great with Multi-processed Dataloaders.](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487875246014466)
+* [@appliedml42: Concept 2: Now we have the npy file and the image index in the file li. We can use memmap to load the file and get the data. That&#39;s it!](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487862139162624)
+* [@appliedml42: Concept 1 contd: We will use the first DataFrame to find the file and the offset within the file for a given index. searchsorted will do this for us. We will use the second DataFrame to find the category for a given file path.](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487858808860672)
+<!--END_SECTION:feed-->
