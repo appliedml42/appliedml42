@@ -90,9 +90,9 @@ Stable Diffusion is revolutionizing the Generative AI field. New text-to-image m
 
 # Latest Chirps 🔥🐥
 <!--START_SECTION:feed-->
+* [@appliedml42: 🤩 This is amazing!](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599996411273449472)
 * [@appliedml42: #ChatGPT knows about Indian street food recipes and can do almost OK job of translating it into Hindi.](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599542289512398848)
 * [@appliedml42: Thanks! I share my learnings on twitter periodically.](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487878916366337)
 * [@appliedml42: This idea can be extended to other datasets too large to fit in memory. For example, I have created a similar Dataset for for my LLM experiments using #sqlite. @weights_biases report here](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487877423206400)
 * [@appliedml42: This works great with Multi-processed Dataloaders.](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487875246014466)
-* [@appliedml42: Concept 2: Now we have the npy file and the image index in the file li. We can use memmap to load the file and get the data. That&#39;s it!](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1599487862139162624)
 <!--END_SECTION:feed-->
