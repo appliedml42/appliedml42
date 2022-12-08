@@ -88,11 +88,4 @@ Billion-scale language models like GPT-2 and GPT-3 and their derivatives have be
 Stable Diffusion is revolutionizing the Generative AI field. New text-to-image models like DreamBooth are making art accessible to many more people. My personal experience is in Natural Language Processing; however, lucky for me, FastAI just released a new course on Stable Diffusion. I am excited to learn and follow along—more details in this [repository](https://github.com/appliedml42/fastai-stable-diffusion). 
 </details>
 
-# Latest Chirps 🔥🐥
-<!--START_SECTION:feed-->
-* [@appliedml42: I periodically share ml resources ✌🏽](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1600246152212803584)
-* [@appliedml42: Learn about MLSystems at Big tech](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1600246150593855488)
-* [@appliedml42: If you know Transformers basics and want a resource to fill-in-the-blanks.](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1600246149063258112)
-* [@appliedml42: Basics -&gt; Stable Diffusion.  Thanks @jeremyphoward](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1600246147406520320)
-* [@appliedml42: My top 3 ML Learning resources right now! 🧵](https:&#x2F;&#x2F;twitter.com&#x2F;appliedml42&#x2F;status&#x2F;1600246145938526208)
-<!--END_SECTION:feed-->
+# Latest Chirps 🔥🐥: Check out my Twitter feed !
