@@ -78,8 +78,7 @@ I have been using Machine Learning, Deep Learning, and Natural Language Processi
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org)
 
 # Notes
-## 2022
-- [Pytorch Map-style Dataset for 800+GB Text Data](https://wandb.ai/appliedml42/language_modeling/reports/Pytorch-Map-style-Dataset-for-800-GB-Text-Data--VmlldzoyMDk3NDgx)
+- [Pytorch Map-style Dataset for 800+GB Text Data, 2022](https://wandb.ai/appliedml42/language_modeling/reports/Pytorch-Map-style-Dataset-for-800-GB-Text-Data--VmlldzoyMDk3NDgx)
 
 # Learning this year 📚
 <details><summary>Billion Scale Language Models</summary>
