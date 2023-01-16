@@ -80,7 +80,13 @@ I have been using Machine Learning, Deep Learning, and Natural Language Processi
 # Notes
 - [Pytorch Map-style Dataset for 800+GB Text Data, 2022](https://wandb.ai/appliedml42/language_modeling/reports/Pytorch-Map-style-Dataset-for-800-GB-Text-Data--VmlldzoyMDk3NDgx)
 
-# Learning this year 📚
+# Life Long Learner 📚
+## 2023
+Details coming soon! But, high level I want to achieve 3 goals this year.
+* Launch a product to make it easy to follow the latest in Machine Learning publications. If I like it I will share with others :) 
+* Revisit Language Models with Pytorch 2.0 and train the most efficient 1.2B parameter model. Explore inference on this model using TensorRT & Triton.
+* Continue Diffusion Models Exploration.
+## 2022
 <details><summary>Billion Scale Language Models</summary>
   
 Billion-scale language models like GPT-2 and GPT-3 and their derivatives have become essential models for accomplishing traditional NLP tasks like classifications. At the same time, they have opened the door to possibilities like code generation. Understanding and training these models require a deep understanding of Transformers and how to train them across multiple GPUs on billions of tokens. In these experiments, I am learning how to train billion parameter models on multiple GPUs on billions of tokens. For more details, go to this [repository](https://github.com/appliedml42/language-modeling). 
