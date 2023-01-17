@@ -84,7 +84,7 @@ I have been using Machine Learning, Deep Learning, and Natural Language Processi
 ## 2023
 Details coming soon! But, high level I want to achieve 3 goals this year.
 * Launch a product to make it easy to follow the latest in Machine Learning publications. If I like it I will share with others :) 
-* Revisit Language Models with Pytorch 2.0 and train the most efficient 1.2B parameter model. Explore inference on this model using TensorRT & Triton.
+* Revisit Language Models with Pytorch 2.0 and train the most efficient 1.2B parameter model possible. Explore inference on this model using TensorRT & Triton.
 * Continue Diffusion Models Exploration.
 ## 2022
 <details><summary>Billion Scale Language Models</summary>
