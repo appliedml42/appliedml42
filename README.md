@@ -17,36 +17,39 @@
   </a>
 </p>
 
-I have been using Machine Learning, Deep Learning, and Natural Language Processing to bring value to organizations like Amazon and Tinder since 2011. Andrew Ng's lecture at Amazon introduced me to Deep Learning in the early 2010s. I have been hooked ever since. 
+# Experience
 
-<details><summary>2019 - Present</summary>
+I have been using Machine Learning, Deep Learning, and Natural Language Processing to bring value to organizations like Amazon and Tinder since 2011. Andrew Ng's lecture at Amazon introduced me to Deep Learning in the early 2010s. I have been hooked ever since.  
 
-## Staff Machine Learning Engineer & Technical Lead, Trust&Safety@Tinder
+<details><summary>Staff MLE & Technical Lead, Tinder</summary>
 
-+ Lead a team of Machine Learning Engineers(dotted line reporting) that is responsible for significant Trust and Safety KPIs. Responsible for hiring, mentoring, and team charter.
-+ Pioneered the idea of using human moderation logs to generate weakly labeled training data at Tinder.
-+ Led the team’s adoption of CNNs and Transformers for all text classification projects. Significant contributions include setting up from-scratch pre-training patterns for Transformers, Domain-specific tokenization, and text pre-processing algorithms to handle adversarial behavior.
-+ Created and led (dotted line) the Escalation and Early Warning team. This team of analysts is responsible for tracking global Trust and Safety KPIs and continuously optimizing detection strategies. Invented KPIs that Trust and Safety org adopted to measure OKRs. This team also provides continuous       feedback to MLEs on new trends and keeps them updated on where to focus while improving their models.
-+ Invented many high ROI and robust non-ML detection algorithms. Significantly ones include combining user reporting with early-in-the-funnel signals to catch bad actors robustly and anomaly detection in user-generated text content.
+## April 2019 - Preset, Los Angeles
+Technical Lead for a Machine Learning Engineers & Risk Analysts team. I started the group and grew it to 9 people. This team owns detection models/algorithms for identifying Trust & Safety violations.
++ Responsible for hiring, mentoring, and team charter.
++ Organized Risk Analysts under the Escalations and Early Warning team. Collaborated with the team to invent KPIs for the org. This team optimizes detection strategies using existing signals and provides feedback highlighting detection gaps.
++ Removed data scarcity by establishing best practices for leveraging moderation logs for training and evaluation datasets.
++ Established modeling best practices. Transformers for text classification by pre-training on Tinder’s unique data; Text pre-processing pipelines to handle adversarial attacks; Metadata embeddings to improve multi-lingual performance; ConvNeXT family of models for effective and efficient image classifiers.
++ Enabled real-time model inference. TFLite and Quantization for CPU-based models; TensorRT and Triton for GPU-based models; Collaborated with Infra team to establish requirements for the K8-based model endpoint framework.
 </details>
 
-<details><summary>2015 - 2019</summary>
+<details><summary>Senior Applied Scientist, Amazon</summary>
 
-## Senior Applied Scientist & Technical Lead, Search Experience@Amazon
-
-+ Technical Lead for a team of 6 Applied Scientists working on query understanding.
-+ Led the R&D and deployment of Search Experience's first query -> category Deep Learning model. This was a Recurrent Neural Network text classification model trained on months of search logs. This model became the foundation for many other products in the team that needed an understanding of query categories.
-+ Pioneered GPU-enabled development, training, inference practices, and infrastructure for Deep Learning in the team. This infrastructure is based on AWS Batch and Docker.
+## April 2015 - April 2019, Seattle
+Technical lead for the query understanding science team.
++ Led the Research & Development of the first query -> shopping intent Recurrent Neural Network model. This model became the foundation for multiple shopping experiences that required mapping of queries to shopping intents.
++ Established best practices for training Deep Learning models and their deployment for the team. Built GPU-based training and batch-inference infrastructure over AWS Batch.
++ Collaborated closely with the infrastructure team to establish requirements for the inference framework. Made sure the team invested in a Python-based framework to make model deployments painless.
 </details>
 
-<details><summary>2011 - 2015</summary>
+<details><summary>Senior Software Development Engineer, Amazon</summary>
 
-## Software Engineer, Kindle@Amazon
-  
-+ Founding engineer on the X-Ray team. This feature identifies topics, characters, images, and important sections of a book. This information is presented to the user in a intuitive user interface. This feature is part of the Amazon Kindle reading experience.
-+ Developed algorithms to associate the different aliases used for a character to a single entity. For example, the algorithm will ensure that Mr. Potter and Harry Potter are associated with the same character.
+## Jun 2011 - March 2015
+Founding engineer on the [X-Ray](https://www.youtube.com/watch?v=AbzOLua2baw) team. X-Ray identifies a book’s topics, characters, images, and essential passages.
++ Developed algorithms to identify characters and all their mentions in a book. For example, the algorithm will ensure that Mr. Potter and Harry Potter are associated with the same character Harry Potter. 
++ Led the Book Maps teams and developed algorithms to identify images and critical passages in a book.
++ Developed testing at scale methodologies to go code complete months before the deadline. Concretely, each new algorithm change was tested against thousands of books, and the most common bugs were sorted by frequency and prioritized.
 + Generated n-gram count statistics across the whole Kindle catalog using Map-Reduce and Dynamo DB. This data is used for topic modeling. 
-+ Developed the algorithms for identifying critical passages in a book by crowd-sourcing highlight behavior across all Kindle users.
++ Developed the Kindle N-gram Corpus. N-gram frequency table using Map-Reduce and DynamodDB across all Kindle books circa 2012. Essential topics in books are identified using this dataset.
 </details>
 
 <details><summary>Patents & Publications</summary>
@@ -66,19 +69,11 @@ I have been using Machine Learning, Deep Learning, and Natural Language Processi
 
 <p align="center"><b>Technologies & Tools</b></p>
 
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](https://www.databricks.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org)
+Pytorch, TensorRT, Triton, Tensorflow, Keras, TFLite, Python, Numpy, Scikit-learn, Pandas, Jupyter, PySpark, Databricks, SQL, Docker, GPUs base Machine Learning, AWS, Deep Learning, Natural Language Processing, Machine Learning, Classification, K8s functional knowledge, Large Language Models. 
 
 # Notes
 - [Pytorch Map-style Dataset for 800+GB Text Data, 2022](https://wandb.ai/appliedml42/language_modeling/reports/Pytorch-Map-style-Dataset-for-800-GB-Text-Data--VmlldzoyMDk3NDgx)
+- [Optimized Theano & Keras on AWS Lambda, 2017](https://becominghuman.ai/running-deep-learning-models-on-aws-lambda-cfd2f76ca048)
 
 # Life Long Learner 📚
 ## 2023
