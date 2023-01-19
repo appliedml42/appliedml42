@@ -87,7 +87,7 @@ Founding engineer on the [X-Ray](https://www.youtube.com/watch?v=AbzOLua2baw) te
 # Personal Projects 📚
 ## 2023
 Details coming soon! But, high level I want to achieve 3 goals this year.
-* Launch a product to make it easy to follow the latest in Machine Learning publications. If I like it I will share with others :) 
+* Build a AI powered Discord server to keep up with AI publications. 
 * Revisit Language Models with Pytorch 2.0 and train the most efficient 1.2B parameter model possible. Explore inference on this model using TensorRT & Triton.
 * Continue Diffusion Models Exploration.
 ## 2022
