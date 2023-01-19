@@ -17,13 +17,13 @@
   </a>
 </p>
 
-# Experience
-
 I have been using Machine Learning, Deep Learning, and Natural Language Processing to bring value to organizations like Amazon and Tinder since 2011. Andrew Ng's lecture at Amazon introduced me to Deep Learning in the early 2010s. I have been hooked ever since.  
 
-<details><summary>Staff MLE & Technical Lead, Tinder</summary>
+# Experience
 
-## April 2019 - Preset, Los Angeles
+<details><summary>2019-Preset</summary>
+
+## Staff MLE & Technical Lead, Tinde
 Technical Lead for a Machine Learning Engineers & Risk Analysts team. I started the group and grew it to 9 people. This team owns detection models/algorithms for identifying Trust & Safety violations.
 + Responsible for hiring, mentoring, and team charter.
 + Organized Risk Analysts under the Escalations and Early Warning team. Collaborated with the team to invent KPIs for the org. This team optimizes detection strategies using existing signals and provides feedback highlighting detection gaps.
@@ -32,18 +32,18 @@ Technical Lead for a Machine Learning Engineers & Risk Analysts team. I started 
 + Enabled real-time model inference. TFLite and Quantization for CPU-based models; TensorRT and Triton for GPU-based models; Collaborated with Infra team to establish requirements for the K8-based model endpoint framework.
 </details>
 
-<details><summary>Senior Applied Scientist, Amazon</summary>
+<details><summary>2015-2019</summary>
 
-## April 2015 - April 2019, Seattle
+## Senior Applied Scientist, Amazon
 Technical lead for the query understanding science team.
 + Led the Research & Development of the first query -> shopping intent Recurrent Neural Network model. This model became the foundation for multiple shopping experiences that required mapping of queries to shopping intents.
 + Established best practices for training Deep Learning models and their deployment for the team. Built GPU-based training and batch-inference infrastructure over AWS Batch.
 + Collaborated closely with the infrastructure team to establish requirements for the inference framework. Made sure the team invested in a Python-based framework to make model deployments painless.
 </details>
 
-<details><summary>Senior Software Development Engineer, Amazon</summary>
+<details><summary>2011-2015</summary>
 
-## Jun 2011 - March 2015
+## Senior Software Development Engineer
 Founding engineer on the [X-Ray](https://www.youtube.com/watch?v=AbzOLua2baw) team. X-Ray identifies a book’s topics, characters, images, and essential passages.
 + Developed algorithms to identify characters and all their mentions in a book. For example, the algorithm will ensure that Mr. Potter and Harry Potter are associated with the same character Harry Potter. 
 + Led the Book Maps teams and developed algorithms to identify images and critical passages in a book.
@@ -75,7 +75,7 @@ Pytorch, TensorRT, Triton, Tensorflow, Keras, TFLite, Python, Numpy, Scikit-lear
 - [Pytorch Map-style Dataset for 800+GB Text Data, 2022](https://wandb.ai/appliedml42/language_modeling/reports/Pytorch-Map-style-Dataset-for-800-GB-Text-Data--VmlldzoyMDk3NDgx)
 - [Optimized Theano & Keras on AWS Lambda, 2017](https://becominghuman.ai/running-deep-learning-models-on-aws-lambda-cfd2f76ca048)
 
-# Life Long Learner 📚
+# Personal Projects 📚
 ## 2023
 Details coming soon! But, high level I want to achieve 3 goals this year.
 * Launch a product to make it easy to follow the latest in Machine Learning publications. If I like it I will share with others :) 
