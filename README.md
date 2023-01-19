@@ -79,7 +79,7 @@ Founding engineer on the [X-Ray](https://www.youtube.com/watch?v=AbzOLua2baw) te
 [<img src="https://img.shields.io/badge/Jupyter-Primary IDE-important.svg?logo=Jupyter">](https://jupyter.org)
 [<img src="https://img.shields.io/badge/PyCharm-Primary IDE-important.svg?logo=PyCharm">](https://www.jetbrains.com/pycharm/)
 [<img src="https://img.shields.io/badge/PySpark-Primary Analytics-important.svg?logo=Apache Spark">](https://spark.apache.org/docs/latest/api/python/)
-[<img src="https://img.shields.io/badge/Databricks-End User Experience-important.svg?logo=Databricks">](https://www.databricks.com)
+[<img src="https://img.shields.io/badge/Databricks-Working Knowledge-important.svg?logo=Databricks">](https://www.databricks.com)
 [<img src="https://img.shields.io/badge/Docker-Working Knowledge-important.svg?logo=Docker">](https://www.docker.com)
 [<img src="https://img.shields.io/badge/AWS-Working Knowledge-important.svg?logo=Amazon AWS">](https://aws.amazon.com)
 [<img src="https://img.shields.io/badge/K8s-Working Knowledge-important.svg?logo=Kubernetes">](https://kubernetes.io)
