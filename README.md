@@ -23,7 +23,7 @@ I have been using Machine Learning, Deep Learning, and Natural Language Processi
 
 <details><summary>2019-Preset</summary>
 
-## Staff MLE & Technical Lead, Tinde
+## Staff MLE & Technical Lead, Tinder
 Technical Lead for a Machine Learning Engineers & Risk Analysts team. I started the group and grew it to 9 people. This team owns detection models/algorithms for identifying Trust & Safety violations.
 + Responsible for hiring, mentoring, and team charter.
 + Organized Risk Analysts under the Escalations and Early Warning team. Collaborated with the team to invent KPIs for the org. This team optimizes detection strategies using existing signals and provides feedback highlighting detection gaps.
