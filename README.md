@@ -70,19 +70,25 @@ Founding engineer on the [X-Ray](https://www.youtube.com/watch?v=AbzOLua2baw) te
 <p align="center"><b>Technologies & Tools</b></p>
 
 [<img src="https://img.shields.io/badge/PyTorch-Primary Modeling Framework-important.svg?logo=PyTorch">](https://pytorch.org)
-[<img src="https://img.shields.io/badge/PyTorch Lightning-Primary Modeling Framework-important.svg?logo=PyTorch Lightning">]([https://pytorch.org](https://www.pytorchlightning.ai))
+[<img src="https://img.shields.io/badge/PyTorch Lightning-Primary Modeling Framework-important.svg?logo=PyTorch Lightning">](https://www.pytorchlightning.ai)
+[<img src="https://img.shields.io/badge/SQLite-On Disk Random IO-important.svg?logo=SQLite">](https://www.sqlite.org/index.html)
 [<img src="https://img.shields.io/badge/TensorRT-GPU Inference-important.svg?logo=NVIDIA">](https://developer.nvidia.com/tensorrt)
 [<img src="https://img.shields.io/badge/Triton-GPU Inference-important.svg?logo=NVIDIA">](https://developer.nvidia.com/nvidia-triton-inference-server)
 [<img src="https://img.shields.io/badge/Python-Primary Language-important.svg?logo=Python">](https://www.python.org)
 [<img src="https://img.shields.io/badge/NumPy--important.svg?logo=NumPy">](https://numpy.org)
 [<img src="https://img.shields.io/badge/Jupyter-Primary IDE-important.svg?logo=Jupyter">](https://jupyter.org)
 [<img src="https://img.shields.io/badge/PyCharm-Primary IDE-important.svg?logo=PyCharm">](https://www.jetbrains.com/pycharm/)
-[<img src="https://img.shields.io/badge/PySpark--important.svg?logo=Apache Spark">](https://spark.apache.org/docs/latest/api/python/)
-[<img src="https://img.shields.io/badge/Databricks--important.svg?logo=Databricks">](https://www.databricks.com)
-[<img src="https://img.shields.io/badge/Docker--important.svg?logo=Docker">](https://www.docker.com)
-[<img src="https://img.shields.io/badge/AWS--important.svg?logo=Amazon AWS">](https://aws.amazon.com)
-[<img src="https://img.shields.io/badge/K8s--important.svg?logo=Kubernetes">](https://kubernetes.io)
-[<img src="https://img.shields.io/badge/MLonGPUs--important.svg?logo=Nvidia">](https://www.nvidia.com/en-us/ai-data-science/)
+[<img src="https://img.shields.io/badge/PySpark-Primary Analytics-important.svg?logo=Apache Spark">](https://spark.apache.org/docs/latest/api/python/)
+[<img src="https://img.shields.io/badge/Databricks-End User Experience-important.svg?logo=Databricks">](https://www.databricks.com)
+[<img src="https://img.shields.io/badge/Docker-Working Knowledge-important.svg?logo=Docker">](https://www.docker.com)
+[<img src="https://img.shields.io/badge/AWS-Working Knowledge-important.svg?logo=Amazon AWS">](https://aws.amazon.com)
+[<img src="https://img.shields.io/badge/K8s-Working Knowledge-important.svg?logo=Kubernetes">](https://kubernetes.io)
+[<img src="https://img.shields.io/badge/MLonGPUs-Interface Using Python-important.svg?logo=Nvidia">](https://www.nvidia.com/en-us/ai-data-science/)
+[<img src="https://img.shields.io/badge/TensorFlow-Secondary Modeling Framework-important.svg?logo=TensorFlow">](https://www.tensorflow.org)
+[<img src="https://img.shields.io/badge/Keras-Secondary Modeling Framework-important.svg?logo=Keras">](https://keras.io)
+[<img src="https://img.shields.io/badge/TFLite-CPU Inference-important.svg?logo=TensorFlow">](https://www.tensorflow.org/lite)
+
+
 
 
 # Notes
