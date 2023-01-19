@@ -69,16 +69,21 @@ Founding engineer on the [X-Ray](https://www.youtube.com/watch?v=AbzOLua2baw) te
 
 <p align="center"><b>Technologies & Tools</b></p>
 
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)](https://www.databricks.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org)
+[<img src="https://img.shields.io/badge/PyTorch-Primary Modeling Framework-important.svg?logo=PyTorch">](https://pytorch.org)
+[<img src="https://img.shields.io/badge/PyTorch Lightning-Primary Modeling Framework-important.svg?logo=PyTorch Lightning">]([https://pytorch.org](https://www.pytorchlightning.ai))
+[<img src="https://img.shields.io/badge/TensorRT-GPU Inference-important.svg?logo=NVIDIA">](https://developer.nvidia.com/tensorrt)
+[<img src="https://img.shields.io/badge/Triton-GPU Inference-important.svg?logo=NVIDIA">](https://developer.nvidia.com/nvidia-triton-inference-server)
+[<img src="https://img.shields.io/badge/Python-Primary Language-important.svg?logo=Python">](https://www.python.org)
+[<img src="https://img.shields.io/badge/NumPy--important.svg?logo=NumPy">](https://numpy.org)
+[<img src="https://img.shields.io/badge/Jupyter-Primary IDE-important.svg?logo=Jupyter">](https://jupyter.org)
+[<img src="https://img.shields.io/badge/PyCharm-Primary IDE-important.svg?logo=PyCharm">](https://www.jetbrains.com/pycharm/)
+[<img src="https://img.shields.io/badge/PySpark--important.svg?logo=Apache Spark">](https://spark.apache.org/docs/latest/api/python/)
+[<img src="https://img.shields.io/badge/Databricks--important.svg?logo=Databricks">](https://www.databricks.com)
+[<img src="https://img.shields.io/badge/Docker--important.svg?logo=Docker">](https://www.docker.com)
+[<img src="https://img.shields.io/badge/AWS--important.svg?logo=Amazon AWS">](https://aws.amazon.com)
+[<img src="https://img.shields.io/badge/K8s--important.svg?logo=Kubernetes">](https://kubernetes.io)
+[<img src="https://img.shields.io/badge/MLonGPUs--important.svg?logo=Nvidia">](https://www.nvidia.com/en-us/ai-data-science/)
+
 
 # Notes
 - [Pytorch Map-style Dataset for 800+GB Text Data, 2022](https://wandb.ai/appliedml42/language_modeling/reports/Pytorch-Map-style-Dataset-for-800-GB-Text-Data--VmlldzoyMDk3NDgx)
