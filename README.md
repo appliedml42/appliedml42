@@ -99,7 +99,7 @@ Founding engineer on the [X-Ray](https://www.youtube.com/watch?v=AbzOLua2baw) te
 ## 2023
 Details coming soon! But, high level I want to achieve 3 goals this year.
 * Build a AI powered Discord server to keep up with AI publications. 
-* Revisit Language Models with Pytorch 2.0 and train the most efficient 1.2B parameter model possible. Explore inference on this model using TensorRT & Triton.
+* Revisit Language Models with Pytorch 2.0 and train the most efficient 1.2B parameter model possible. Explore inference on this model using TensorRT & Triton. Gain experience with profilers.
 * Continue Diffusion Models Exploration.
 ## 2022
 <details><summary>Billion Scale Language Models</summary>
