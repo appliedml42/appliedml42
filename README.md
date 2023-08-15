@@ -109,5 +109,5 @@ Billion-scale language models like GPT-2 and GPT-3 and their derivatives have be
 
 <details><summary>Stable Diffusion</summary>
 
-Stable Diffusion is revolutionizing the Generative AI field. New text-to-image models like DreamBooth are making art accessible to many more people. My personal experience is in Natural Language Processing; however, lucky for me, FastAI just released a new course on Stable Diffusion. I am excited to learn and follow along—more details in this [repository](https://github.com/appliedml42/fastai-stable-diffusion). 
+Stable Diffusion is revolutionizing the Generative AI field. New text-to-image models like DreamBooth are making art accessible to many more people. My personal experience is in Natural Language Processing; however, lucky for me, FastAI just released a new course on Stable Diffusion. I am excited to learn and follow along!
 </details>
