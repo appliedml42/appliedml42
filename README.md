@@ -88,25 +88,3 @@ Founding engineer on the [X-Ray](https://www.youtube.com/watch?v=AbzOLua2baw) te
 [<img src="https://img.shields.io/badge/Keras-Secondary Modeling Framework-important.svg?logo=Keras">](https://keras.io)
 [<img src="https://img.shields.io/badge/TFLite-CPU Inference-important.svg?logo=TensorFlow">](https://www.tensorflow.org/lite)
 
-
-
-
-# Notes
-- [Pytorch Map-style Dataset for 800+GB Text Data, 2022](https://wandb.ai/appliedml42/language_modeling/reports/Pytorch-Map-style-Dataset-for-800-GB-Text-Data--VmlldzoyMDk3NDgx)
-- [Optimized Theano & Keras on AWS Lambda, 2017](https://becominghuman.ai/running-deep-learning-models-on-aws-lambda-cfd2f76ca048)
-
-# Personal Projects 📚
-## 2023
-* Build a AI powered tool to keep up with AI research. 
-* Revisit Language Models with Pytorch 2.0 and train the most efficient 1.2B parameter model possible.
-* Continue Diffusion Models Exploration.
-## 2022
-<details><summary>Billion Scale Language Models</summary>
-  
-Billion-scale language models like GPT-2 and GPT-3 and their derivatives have become essential models for accomplishing traditional NLP tasks like classifications. At the same time, they have opened the door to possibilities like code generation. Understanding and training these models require a deep understanding of Transformers and how to train them across multiple GPUs on billions of tokens. In these experiments, I am learning how to train billion parameter models on multiple GPUs on billions of tokens. For more details, go to this [repository](https://github.com/appliedml42/language-modeling). 
-</details>
-
-<details><summary>Stable Diffusion</summary>
-
-Stable Diffusion is revolutionizing the Generative AI field. New text-to-image models like DreamBooth are making art accessible to many more people. My personal experience is in Natural Language Processing; however, lucky for me, FastAI just released a new course on Stable Diffusion. I am excited to learn and follow along!
-</details>
