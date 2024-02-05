@@ -21,7 +21,7 @@ I have used Machine Learning, Deep Learning, and Natural Language Processing to 
 
 # AI Self Learning
 * [Large Language Models](https://github.com/appliedml42/LLMs)
-* [openAI Triton: Fused Softmax][https://github.com/appliedml42/concepts/blob/main/notebooks/oai-triton/fused_softmax.ipynb]
+* [openAI Triton: Fused Softmax](https://github.com/appliedml42/concepts/blob/main/notebooks/oai-triton/fused_softmax.ipynb)
 # Experience
 <details><summary>2024-Present</summary>
 
