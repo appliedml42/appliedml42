@@ -17,11 +17,41 @@
   </a>
 </p>
 
-I have been using Machine Learning, Deep Learning, and Natural Language Processing to bring value to organizations like Amazon and Tinder since 2011. Andrew Ng's lecture at Amazon introduced me to Deep Learning in the early 2010s. I have been hooked ever since.  
+I have used Machine Learning, Deep Learning, and Natural Language Processing to bring value to organizations like Amazon and Tinder since 2011. Andrew Ng's lecture at Amazon introduced me to Deep Learning in the early 2010s. I have been hooked ever since.  
 
+# AI Self Learning
+* [Large Language Models](https://github.com/appliedml42/LLMs)
+* [openAI Triton: Fused Softmax][https://github.com/appliedml42/concepts/blob/main/notebooks/oai-triton/fused_softmax.ipynb]
 # Experience
+<details><summary>2024-Present</summary>
 
-<details><summary>2019-Preset</summary>
+## Coming Soon
+</details>
+
+<details><summary>2023-2024</summary>
+  
+## AI Technical Lead, Various Startups
+  
+In early 2023, I decided to resign from Tinder and explore the AI startup landscape by working at different startups. During this exploration, I worked at a few startups and got hands-on experience on how Large Language Models can be leveraged to build products. 
+
+* **Features**: 
+  * Record Matching between Salesforce records and incomplete leads using a cascade of GPT 3.5 Turbo and GPT 4 using Langchain for async batching and calling the API. 
+  * Rate professionals for job placements based on their work experience using GPT 4. 
+* **Fine-tuning**: Fine-tuned open-source LLMs with LoRA, replacing costly proprietary systems to improve cost and stability. 
+* **Inference**: I advised infrastructure engineers, did node local benchmarks for LLM inference engines like vLLM, and evaluated services like Together.ai and Fireworks.ai. 
+* **Knowledge**: Leadership: Stayed abreast of the latest SOTA transformer architectures, such as KV Cache, Multi-Query Attention, and RoPE, ensuring the dissemination of this knowledge.
+* **Evaluation**: Built a UI tool using Streamlit and ideas from different evaluation repositories like LLMJudge to build a tool to compare the performance of different LLMs on a given task. 
+  
+## Staff MLE & Technical Lead, Tinder
+Technical Lead for a Machine Learning Engineers & Risk Analysts team. I started the group and grew it to 9 people. This team owns detection models/algorithms for identifying Trust & Safety violations.
++ Responsible for hiring, mentoring, and team charter.
++ Organized Risk Analysts under the Escalations and Early Warning team. Collaborated with the team to invent KPIs for the org. This team optimizes detection strategies using existing signals and provides feedback highlighting detection gaps.
++ Removed data scarcity by establishing best practices for leveraging moderation logs for training and evaluation datasets.
++ Established modeling best practices. Transformers for text classification by pre-training on Tinder’s unique data; Text pre-processing pipelines to handle adversarial attacks; Metadata embeddings to improve multi-lingual performance; ConvNeXT family of models for effective and efficient image classifiers.
++ Enabled real-time model inference. TFLite and Quantization for CPU-based models; TensorRT and Triton for GPU-based models; Collaborated with Infra team to establish requirements for the K8-based model endpoint framework.
+</details>
+
+<details><summary>2019-2023</summary>
 
 ## Staff MLE & Technical Lead, Tinder
 Technical Lead for a Machine Learning Engineers & Risk Analysts team. I started the group and grew it to 9 people. This team owns detection models/algorithms for identifying Trust & Safety violations.
