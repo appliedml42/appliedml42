@@ -34,15 +34,3 @@ Since 2011, I have used Machine Learning, Deep Learning, and Natural Language Pr
 + [Layout-aware text extraction from full-text PDF of scientific articles](https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-7-7)
 </details>
 
-<p align="center"><b>Technologies & Tools</b></p>
-
-[<img src="https://img.shields.io/badge/PyTorch-Primary Modeling Framework-important.svg?logo=PyTorch">](https://pytorch.org)
-[<img src="https://img.shields.io/badge/SQLite-On Disk Random IO-important.svg?logo=SQLite">](https://www.sqlite.org/index.html)
-[<img src="https://img.shields.io/badge/Triton-GPU Inference-important.svg?logo=NVIDIA">](https://developer.nvidia.com/nvidia-triton-inference-server)
-[<img src="https://img.shields.io/badge/Python-Primary Language-important.svg?logo=Python">](https://www.python.org)
-[<img src="https://img.shields.io/badge/NumPy--important.svg?logo=NumPy">](https://numpy.org)
-[<img src="https://img.shields.io/badge/PySpark-Primary Analytics-important.svg?logo=Apache Spark">](https://spark.apache.org/docs/latest/api/python/)
-[<img src="https://img.shields.io/badge/Databricks-Working Knowledge-important.svg?logo=Databricks">](https://www.databricks.com)
-[<img src="https://img.shields.io/badge/Docker-Working Knowledge-important.svg?logo=Docker">](https://www.docker.com)
-[<img src="https://img.shields.io/badge/AWS-Working Knowledge-important.svg?logo=Amazon AWS">](https://aws.amazon.com)
-[<img src="https://img.shields.io/badge/K8s-Working Knowledge-important.svg?logo=Kubernetes">](https://kubernetes.io)
