@@ -17,11 +17,8 @@
   </a>
 </p>
 
-I have used Machine Learning, Deep Learning, and Natural Language Processing to bring value to organizations like Amazon and Tinder since 2011. Andrew Ng's lecture at Amazon introduced me to Deep Learning in the early 2010s. I have been hooked ever since.  
+Since 2011, I have used Machine Learning, Deep Learning, and Natural Language Processing to bring value to various organizations. Andrew Ng's lecture at Amazon introduced me to Deep Learning in the early 2010s, and I have been hooked ever since.  
 
-# AI Self Learning
-* [Large Language Models](https://github.com/appliedml42/LLMs)
-* [openAI Triton: Fused Softmax](https://github.com/appliedml42/concepts/blob/main/notebooks/oai-triton/fused_softmax.ipynb)
 # Experience
 <details><summary>2024-Present</summary>
 
@@ -100,14 +97,11 @@ Founding engineer on the [X-Ray](https://www.youtube.com/watch?v=AbzOLua2baw) te
 <p align="center"><b>Technologies & Tools</b></p>
 
 [<img src="https://img.shields.io/badge/PyTorch-Primary Modeling Framework-important.svg?logo=PyTorch">](https://pytorch.org)
-[<img src="https://img.shields.io/badge/PyTorch Lightning-Primary Modeling Framework-important.svg?logo=PyTorch Lightning">](https://www.pytorchlightning.ai)
 [<img src="https://img.shields.io/badge/SQLite-On Disk Random IO-important.svg?logo=SQLite">](https://www.sqlite.org/index.html)
-[<img src="https://img.shields.io/badge/TensorRT-GPU Inference-important.svg?logo=NVIDIA">](https://developer.nvidia.com/tensorrt)
 [<img src="https://img.shields.io/badge/Triton-GPU Inference-important.svg?logo=NVIDIA">](https://developer.nvidia.com/nvidia-triton-inference-server)
 [<img src="https://img.shields.io/badge/Python-Primary Language-important.svg?logo=Python">](https://www.python.org)
 [<img src="https://img.shields.io/badge/NumPy--important.svg?logo=NumPy">](https://numpy.org)
 [<img src="https://img.shields.io/badge/Jupyter-Primary IDE-important.svg?logo=Jupyter">](https://jupyter.org)
-[<img src="https://img.shields.io/badge/PyCharm-Primary IDE-important.svg?logo=PyCharm">](https://www.jetbrains.com/pycharm/)
 [<img src="https://img.shields.io/badge/PySpark-Primary Analytics-important.svg?logo=Apache Spark">](https://spark.apache.org/docs/latest/api/python/)
 [<img src="https://img.shields.io/badge/Databricks-Working Knowledge-important.svg?logo=Databricks">](https://www.databricks.com)
 [<img src="https://img.shields.io/badge/Docker-Working Knowledge-important.svg?logo=Docker">](https://www.docker.com)
