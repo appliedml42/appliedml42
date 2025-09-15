@@ -12,9 +12,6 @@
   <a href="https://twitter.com/appliedml42">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:appliedml42@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 Since 2011, I have used Machine Learning, Deep Learning, and Natural Language Processing to bring value to various organizations. Andrew Ng's lecture at Amazon introduced me to Deep Learning in the early 2010s, and I have been hooked ever since.  
